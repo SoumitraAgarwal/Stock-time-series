@@ -1,2 +1,2 @@
-# Stock-time-series-
+# Stock-time-series
 Webscraping stock price data
